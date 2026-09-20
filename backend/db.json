@@ -1,0 +1,16 @@
+{
+  "sessions": [
+    {
+      "id": 1789830340306,
+      "playerName": "Player1",
+      "tapCount": 17,
+      "timestamp": "2026-09-19T15:05:40.306Z"
+    },
+    {
+      "id": 1789832035187,
+      "playerName": "Player1",
+      "tapCount": 10,
+      "timestamp": "2026-09-19T15:33:55.187Z"
+    }
+  ]
+}
