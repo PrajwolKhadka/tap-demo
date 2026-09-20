@@ -1,0 +1,2 @@
+## Use this as a sample for training classes however the backend and frontend can depend upon your final project
+# Folder structure, architecture, and logic it all depends on how well you can design them. However, any strict format is not a compulsion.
